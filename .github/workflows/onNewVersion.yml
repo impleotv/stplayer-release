@@ -39,5 +39,5 @@ jobs:
           username: sw@impleotv.com
           password: ${{ secrets.FTP_IMPLEO_SW }}
           local-dir: ./
-          server-dir: stplayer/setup/
+          server-dir: stplayer/
         
