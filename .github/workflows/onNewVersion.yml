@@ -30,4 +30,4 @@ jobs:
       - run: echo "🖥️ The version is ready to be uploaded."
       - name: List files in the repository
         run: |
-          ls ${{ github.workspace }}
+          tree ${{ github.workspace }}
