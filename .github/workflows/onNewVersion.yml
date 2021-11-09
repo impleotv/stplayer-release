@@ -40,6 +40,4 @@ jobs:
           password: ${{ secrets.FTP_IMPLEO_SW }}
           local-dir: ./
           server-dir: stplayer/setup/
-          exclude:
-            - **/images/**
-         
+        
