@@ -31,3 +31,15 @@ jobs:
       - name: List files in the repository
         run: |
           tree ${{ github.workspace }}
+
+      - name: 📂 Upload SetupStPlayer to ImpleoTV FTP
+        uses: SamKirkland/FTP-Deploy-Action@4.1.0
+        with:
+          server: ftp.impleotv.com
+          username: sw@impleotv.com
+          password: ${{ secrets.FTP_IMPLEO_SW }}
+          local-dir: ./
+          server-dir: stplayer/setup/
+          exclude:
+            - **/images/**
+         
