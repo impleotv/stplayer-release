@@ -24,5 +24,10 @@ jobs:
             #version: tags/${{ env.RELEASE }}
           version: tags/v1.6.1.2
           file: SetupStPlayer.zip
-          target: ./
+          target: "verstion/SetupStPlayer.zip"
           # token: ${{ secrets.DEPLOY_TOKEN }}
+
+      - run: echo "🖥️ The version is ready to be uploaded."
+      - name: List files in the repository
+        run: |
+          ls ${{ github.workspace }}
