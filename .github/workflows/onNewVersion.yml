@@ -3,8 +3,8 @@ name: OnPushNewVersion
 on:
   push:
     branches: [ master ]  
-    #tags:
-    #- 'v*'
+    tags:
+      - 'v*'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -21,8 +21,7 @@ jobs:
       - name: Download release asset
         uses: dsaltares/fetch-gh-release-asset@master
         with:
-            #version: tags/${{ env.RELEASE }}
-          version: tags/v1.6.1.2
+          #version: tags/${{ env.RELEASE }}          
           file: SetupStPlayer.zip
           target: SetupStPlayer.zip
           # token: ${{ secrets.DEPLOY_TOKEN }}
