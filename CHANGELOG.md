@@ -1,5 +1,9 @@
 Change Log
 ==========
+
+### Ver. 1.6.2 (10/11/21)
+- Update VS runtime to v142
+
 ### Ver. 1.6.1.2 (04/11/21)
 - Update MisbCore (user defined plugin)
 
