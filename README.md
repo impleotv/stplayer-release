@@ -6,13 +6,15 @@
 </div>
 
 # StPlayer
-**StPlayer™** is a cost effective standalone viewer for ISR imagery presentation and analysis. More [info](https://www.impleotv.com/content/stplayer/help/index.html).
+**StPlayer™** is a cost effective standalone viewer for ISR imagery presentation and analysis.  
+More [info](https://www.impleotv.com/content/stplayer/help/index.html).
 
 ## System Requirements
 OS: Windows 10 64 bit.
 ## Installation
 
-**StPlayer** can be downloaded as a **zip** file that contains installer. Unzip the **SetupStPlayer.zip** file and run the **SetupStPlayer.exe**
+**StPlayer** can be downloaded as a **zip** file that contains installer. Unzip the **SetupStPlayer.zip** file and run the **SetupStPlayer.exe**  
+Here is the [latest version](https://github.com/impleotv/stplayer-release/releases/latest/download/SetupStPlayer.zip)
 
 ## License
 
