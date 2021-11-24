@@ -1,6 +1,13 @@
 Change Log
 ==========
 
+### Ver. 1.6.3 (24/11/21)
+- Update recorder runtime to v142
+- Boost v142
+- STANAG Player SDK v3.8.10
+- Fix file cut mode
+- Add time restricted license support
+
 ### Ver. 1.6.2 (10/11/21)
 - Update VS runtime to v142
 
