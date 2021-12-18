@@ -23,10 +23,10 @@ Unzip the **SetupStPlayer.zip** file and run the **SetupStPlayer.exe**
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StPlayer** |  v1.6.3 | [SetupStPlayer.zip](https://github.com/impleotv/stplayer-release/releases/latest/download/SetupStPlayer.zip) | 
+| **StPlayer** |  v1.6.4 | [SetupStPlayer.zip](https://github.com/impleotv/stplayer-release/releases/latest/download/SetupStPlayer.zip) | 
 
 
-*Released on Wed, 24 Nov, 09:13 GMT+2*
+*Released on Sat, 18 Dec, 19:26 GMT+2*
 
 ## License
 
@@ -34,7 +34,6 @@ No license is needed for application evaluation - it will work in demo mode (wit
 
 **StPlayer** is a node locked software, so you have to get a license (after purchasing the SW) in order to lift demo restrictions. Please install the application and fill an [online form](https://docs.google.com/forms/d/e/1FAIpQLSd_XW6bDsFce1G1cpds4gMQNlwNax0CvkWzcMbscxZ5rLaIbA/viewform), providing the ***Node Info*** string (IMPORTANT!!!) for the target machine.  
 ***Node Info*** string can be found at ***Options->License***, as shown below.
-
 ![NodeInfo string](images/license.jpg)
 
 Please copy-paste *Node Info*, don't send an image...
