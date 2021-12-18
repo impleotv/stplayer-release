@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 1.6.4 (19/12/21)
+- Update MisbCore ( VMTI update )
+- Update low level. DirectX renderer
+
 ### Ver. 1.6.3 (24/11/21)
 - Update recorder runtime to v142
 - Boost v142
