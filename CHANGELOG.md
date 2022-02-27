@@ -1,6 +1,9 @@
 Change Log
 ==========
 
+### Ver. 1.6.5 (27/02/22)
+- Update MisbCore (VObject)
+
 ### Ver. 1.6.4.1 (19/12/21)
 - Update overlay target presentation
 
