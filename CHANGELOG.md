@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 1.7.0 (06/04/2)
+- Add Bookmarks
+- Fix stserver url persistence
+
 ### Ver. 1.6.5 (27/02/22)
 - Update MisbCore (VObject)
 
