@@ -31,7 +31,7 @@ function generateReadMe() {
 
 function generateVersionsFile() {
     const output = {
-      latest: pjsonServer.version,
+      latest: DATA.version,
       date: new Date().toISOString(),
       releases_link: "https://github.com/impleotv/stserver-release"
     };
