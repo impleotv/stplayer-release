@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+### Ver. 1.7.1 (12/04/2)
+- Add timestamp and "Save packet option" to Bookmarks
+- Version Update check from github 
+- Update low level
+
 ### Ver. 1.7.0 (06/04/2)
 - Add Bookmarks
 - Fix stserver url persistence
