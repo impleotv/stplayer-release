@@ -1,12 +1,16 @@
 Change Log
 ==========
+### Ver. 1.7.2 (28/04/22)
+- Implement mission video coverage query in VOD mode from StServer
+- Add StServer Area and heatmap query
+- Update low level
 
-### Ver. 1.7.1 (12/04/2)
+### Ver. 1.7.1 (12/04/22)
 - Add timestamp and "Save packet option" to Bookmarks
 - Version Update check from github 
 - Update low level
 
-### Ver. 1.7.0 (06/04/2)
+### Ver. 1.7.0 (06/04/22)
 - Add Bookmarks
 - Fix stserver url persistence
 
