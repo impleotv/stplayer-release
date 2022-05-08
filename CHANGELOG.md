@@ -1,5 +1,10 @@
 Change Log
 ==========
+
+### Ver. 1.7.3 (09/05/22)
+- Fix VMTI overlay drawing with incomplete tracker
+- Rewrite StServer integration with StServerUtils dll
+
 ### Ver. 1.7.2 (28/04/22)
 - Implement mission video coverage query in VOD mode from StServer
 - Add StServer Area and heatmap query
