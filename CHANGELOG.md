@@ -1,6 +1,9 @@
 Change Log
 ==========
 
+### Ver. 1.7.4 (05/22)
+- Fix crash on null m_MainWindow.GetStServerUtils
+
 ### Ver. 1.7.3 (09/05/22)
 - Fix VMTI overlay drawing with incomplete tracker
 - Rewrite StServer integration with StServerUtils dll
