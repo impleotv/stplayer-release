@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+### Ver. 1.7.5 (05/22)
+- Update vmti targets map presentation
+- StServerUtils rewrite to async methods due to restsharp breaking changes
+- Fix user manual typos
+
 ### Ver. 1.7.4 (05/22)
 - Fix crash on null m_MainWindow.GetStServerUtils
 
