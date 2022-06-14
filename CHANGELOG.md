@@ -1,7 +1,7 @@
 Change Log
 ==========
 
-### Ver. 1.7.5 (05/22)
+### Ver. 1.7.5 (14/06/22)
 - Update vmti targets map presentation
 - StServerUtils rewrite to async methods due to restsharp breaking changes
 - Fix user manual typos
