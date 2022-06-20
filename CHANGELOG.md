@@ -1,9 +1,14 @@
 Change Log
 ==========
 
+### Ver. 1.7.6 (20/06/22)
+- Prevent passing packets for map presentation if no geo info present in it.
+- Update Map control
+
 ### Ver. 1.7.5 (14/06/22)
 - Update vmti targets map presentation
 - StServerUtils rewrite to async methods due to restsharp breaking changes
+- Integrate updated StServerUtils
 - Fix user manual typos
 
 ### Ver. 1.7.4 (05/22)
