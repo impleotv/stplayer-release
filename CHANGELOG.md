@@ -1,6 +1,9 @@
 Change Log
 ==========
 
+### Ver. 1.7.7 (22/06/22)
+- Add support for on-the-fly video resolution change.
+
 ### Ver. 1.7.6 (20/06/22)
 - Prevent passing packets for map presentation if no geo info present in it.
 - Update Map control
