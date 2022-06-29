@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 1.7.8 (26/06/22)
+- New nodeinfo implementation
+- Add Error handing in case the configuration file creation failed (disk full)
+
 ### Ver. 1.7.7 (22/06/22)
 - Add support for on-the-fly video resolution change.
 
