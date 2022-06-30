@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 1.7.9 (29/06/22)
+- Low level update (memory leak)
+- Fix window size on expire 
+
 ### Ver. 1.7.8 (26/06/22)
 - New nodeinfo implementation
 - Add Error handing in case the configuration file creation failed (disk full)
