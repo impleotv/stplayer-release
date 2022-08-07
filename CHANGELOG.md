@@ -1,6 +1,13 @@
 Change Log
 ==========
 
+### Ver. 1.8.0 (08/22)
+- Add tags 115, 116, 121, 128
+- Low level update 
+
+### Ver. 1.7.10 (03/07/22)
+- Set AudioMayBeMissing property to default true. (False prevented some files from playing)
+
 ### Ver. 1.7.9 (29/06/22)
 - Low level update (memory leak)
 - Fix window size on expire 
