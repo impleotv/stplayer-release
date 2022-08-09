@@ -1,7 +1,11 @@
 Change Log
 ==========
 
-### Ver. 1.8.0 (08/22)
+### Ver. 1.8.1 (09/08/22)
+- Add tag 122, 138, 139
+- Low level update 
+
+### Ver. 1.8.0 (07/08/22)
 - Add tags 115, 116, 121, 128
 - Low level update 
 
