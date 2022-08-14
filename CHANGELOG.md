@@ -1,6 +1,9 @@
 Change Log
 ==========
 
+### Ver. 1.8.2 (14/08/22)
+- Update MisbCore (fix VMTI target id)
+
 ### Ver. 1.8.1 (09/08/22)
 - Add tag 122, 138, 139
 - Low level update 
