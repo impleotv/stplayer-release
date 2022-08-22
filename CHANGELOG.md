@@ -1,5 +1,7 @@
 Change Log
 ==========
+### Ver. 1.8.3 (22/08/22)
+- Fix clip cut/export (no pts) 
 
 ### Ver. 1.8.2 (14/08/22)
 - Update MisbCore (fix VMTI target id)
