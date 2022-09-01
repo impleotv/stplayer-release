@@ -1,5 +1,10 @@
 Change Log
 ==========
+
+### Ver. 1.9.0 (08/22)
+- Update klvView. Remove quotes on tags
+- Add KlvBreakpoints (KlvConditionsWindow in KlvView)
+
 ### Ver. 1.8.3 (22/08/22)
 - Fix clip cut/export (no pts) 
 
