@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 1.9.1 (10/22)
+- Add command line arguments
+- Low level update (3.9.2)
+
 ### Ver. 1.9.0 (08/22)
 - Update klvView. Remove quotes on tags
 - Add KlvBreakpoints (KlvConditionsWindow in KlvView)
