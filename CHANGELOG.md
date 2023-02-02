@@ -1,5 +1,7 @@
 Change Log
 ==========
+### Ver. 1.9.2 (01/02/22)
+- Add VChip support (to VMTI metadata)
 
 ### Ver. 1.9.1 (10/22)
 - Add command line arguments
