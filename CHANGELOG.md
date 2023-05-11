@@ -1,12 +1,16 @@
 Change Log
 ==========
 
-### Ver. 1.9.3 (01/02/22)
+### Ver. 1.9.4 (11/05/23)
+- License time server
+- Fix HLS HEVC recording
+
+### Ver. 1.9.3 (01/02/23)
 - Implement JWT for secure HLS access for StanagOnDemand server
 - Update StServer web controls.
 - Update low level (StCore 3.9.7)
 
-### Ver. 1.9.2 (01/02/22)
+### Ver. 1.9.2 (01/02/23)
 - Add VChip support (to VMTI metadata)
 
 ### Ver. 1.9.1 (10/22)
