@@ -1,6 +1,9 @@
 Change Log
 ==========
 
+### Ver. 1.9.5 (11/05/23)
+- Recorder update (HEVC I-frame manifest)
+
 ### Ver. 1.9.4 (11/05/23)
 - License time server
 - Fix HLS HEVC recording
