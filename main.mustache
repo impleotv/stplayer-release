@@ -12,7 +12,7 @@ More [info](https://www.impleotv.com/content/stplayer/help/index.html).
 
 ## System Requirements
 
-OS: Windows 10 64 bit.
+OS: Windows 10/11 64 bit.
 
 ## Installation
 
