@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 1.10.0 (23/05/23)
+- Low level update. FFmpeg version change
+- Add api for configuring decoding hw acceleration type
+
 ### Ver. 1.9.5 (11/05/23)
 - Recorder update (HEVC I-frame manifest)
 
