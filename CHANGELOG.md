@@ -1,5 +1,11 @@
 Change Log
 ==========
+
+### Ver. 1.11.1 (14/06/23)
+- Add websocket interface
+- Add initial app window pos control (via args) 
+- Fix BER-OID Encoding/Decoding for VMTI Target ID
+
 ### Ver. 1.10.1 (27/06/23)
 - Low level update. Decoder memory leak fix
 
