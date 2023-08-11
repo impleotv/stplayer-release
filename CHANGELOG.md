@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+### Ver. 1.11.2 (11/08/23)
+- Add lastPacketGeoJson endpoint to the websocket interface
+- Add lastPacketGeoJson endpoint to the REST interface
+- Hide pre-confugured buttons. REST interface commands 
+
 ### Ver. 1.11.1 (14/06/23)
 - Add websocket interface
 - Add initial app window pos control (via args) 
