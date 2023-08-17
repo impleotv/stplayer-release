@@ -1,6 +1,9 @@
 Change Log
 ==========
 
+### Ver. 1.11.3 (17/08/23)
+- Fix rtsp playback. Disable DVR mode for rtsp
+
 ### Ver. 1.11.2 (11/08/23)
 - Add lastPacketGeoJson endpoint to the websocket interface
 - Add lastPacketGeoJson endpoint to the REST interface
