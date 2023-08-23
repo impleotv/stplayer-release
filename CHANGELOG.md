@@ -1,6 +1,13 @@
 Change Log
 ==========
 
+### Ver. 1.11.4 (23/08/23)
+- Low level update (StCore 3.10.3) 
+- Support the sps information provided in an rtp packet with a format STAP-A 
+- Fix the SequenceHeaderInsertionOnKeyFrames property did not reach its destination in the DVR mode
+- Add SequenceHeaderInsertionOnKeyFrames (default true) to config file
+- Enable back DVR mode for rtsp
+
 ### Ver. 1.11.3 (17/08/23)
 - Fix rtsp playback. Disable DVR mode for rtsp
 
