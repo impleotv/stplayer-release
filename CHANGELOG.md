@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+### Ver. 1.11.5 (03/09/23)
+
+- Move HiddenButtons Settings to the application scope
+- Make websocket reporting for MouseMove event optional
+
 ### Ver. 1.11.4 (23/08/23)
 - Low level update (StCore 3.10.3) 
 - Support the sps information provided in an rtp packet with a format STAP-A 
