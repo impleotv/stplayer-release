@@ -12,7 +12,7 @@ More [info](https://www.impleotv.com/content/stplayer/help/index.html).
 
 ## System Requirements
 
-OS: Windows 10 64 bit.
+OS: Windows 10/11 64 bit.
 
 ## Installation
 
@@ -23,10 +23,10 @@ Unzip the **SetupStPlayer.zip** file and run the **SetupStPlayer.exe**
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StPlayer** |  v1.9.0 | [SetupStPlayer.zip](https://github.com/impleotv/stplayer-release/releases/latest/download/SetupStPlayer.zip) | 
+| **StPlayer** |  v1.11.5 | [SetupStPlayer.zip](https://github.com/impleotv/stplayer-release/releases/latest/download/SetupStPlayer.zip) | 
 
 
-*Released on Thu, 1 Sept, 10:40 GMT+3*
+*Released on Sun, 3 Sept, 15:08 GMT+3*
 
 ## License
 

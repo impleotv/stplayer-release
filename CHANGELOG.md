@@ -1,6 +1,57 @@
 Change Log
 ==========
 
+### Ver. 1.11.5 (03/09/23)
+
+- Move HiddenButtons Settings to the application scope
+- Make websocket reporting for MouseMove event optional
+
+### Ver. 1.11.4 (23/08/23)
+- Low level update (StCore 3.10.3) 
+- Support the sps information provided in an rtp packet with a format STAP-A 
+- Fix the SequenceHeaderInsertionOnKeyFrames property did not reach its destination in the DVR mode
+- Add SequenceHeaderInsertionOnKeyFrames (default true) to config file
+- Enable back DVR mode for rtsp
+
+### Ver. 1.11.3 (17/08/23)
+- Fix rtsp playback. Disable DVR mode for rtsp
+
+### Ver. 1.11.2 (11/08/23)
+- Add lastPacketGeoJson endpoint to the websocket interface
+- Add lastPacketGeoJson endpoint to the REST interface
+- Hide pre-confugured buttons. REST interface commands 
+
+### Ver. 1.11.1 (14/06/23)
+- Add websocket interface
+- Add initial app window pos control (via args) 
+- Fix BER-OID Encoding/Decoding for VMTI Target ID
+
+### Ver. 1.10.1 (27/06/23)
+- Low level update. Decoder memory leak fix
+
+### Ver. 1.10.0 (23/05/23)
+- Low level update. FFmpeg version change
+- Add api for configuring decoding hw acceleration type
+
+### Ver. 1.9.5 (11/05/23)
+- Recorder update (HEVC I-frame manifest)
+
+### Ver. 1.9.4 (11/05/23)
+- License time server
+- Fix HLS HEVC recording
+
+### Ver. 1.9.3 (01/02/23)
+- Implement JWT for secure HLS access for StanagOnDemand server
+- Update StServer web controls.
+- Update low level (StCore 3.9.7)
+
+### Ver. 1.9.2 (01/02/23)
+- Add VChip support (to VMTI metadata)
+
+### Ver. 1.9.1 (10/22)
+- Add command line arguments
+- Low level update (3.9.2)
+
 ### Ver. 1.9.0 (08/22)
 - Update klvView. Remove quotes on tags
 - Add KlvBreakpoints (KlvConditionsWindow in KlvView)
