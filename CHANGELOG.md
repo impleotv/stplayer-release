@@ -1,8 +1,12 @@
 Change Log
 ==========
 
-### Ver. 1.11.5 (03/09/23)
 
+
+### Ver. 1.11.6 (05/09/23)
+- Report MouseDown and MouseMove if only screen coordinates are available
+
+### Ver. 1.11.5 (03/09/23)
 - Move HiddenButtons Settings to the application scope
 - Make websocket reporting for MouseMove event optional
 
