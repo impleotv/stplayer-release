@@ -1,7 +1,8 @@
 Change Log
 ==========
 
-
+### Ver. 1.11.7 (12/10-/23)
+- Fix long VMTI tracker (over 14 items)
 
 ### Ver. 1.11.6 (05/09/23)
 - Report MouseDown and MouseMove if only screen coordinates are available
