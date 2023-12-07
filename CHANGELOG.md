@@ -1,5 +1,10 @@
 Change Log
 ==========
+### Ver. 1.11.8 (07/12/23)
+- Low level update. Quicksync related
+- Disable config editing if not stopped.
+- Add initial configuration loading with argument
+- Add support for nic 0.0.0.0 to recorder
 
 ### Ver. 1.11.7 (12/10-/23)
 - Fix long VMTI tracker (over 14 items)
