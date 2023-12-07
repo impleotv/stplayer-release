@@ -5,6 +5,7 @@ Change Log
 - Disable config editing if not stopped.
 - Add initial configuration loading with argument
 - Add support for nic 0.0.0.0 to recorder
+- Increase recaster buffer size to 8mb
 
 ### Ver. 1.11.7 (12/10-/23)
 - Fix long VMTI tracker (over 14 items)
