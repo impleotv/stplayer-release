@@ -1,5 +1,8 @@
 Change Log
 ==========
+### Ver. 1.11.9 (13/12/23)
+- Low level update. 
+
 ### Ver. 1.11.8 (07/12/23)
 - Low level update. Quicksync related
 - Disable config editing if not stopped.
