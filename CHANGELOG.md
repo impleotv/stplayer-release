@@ -1,5 +1,9 @@
 Change Log
 ==========
+### Ver. 1.10.16 (11/02/24)
+- Added new property in IStCoreWr - SequenceHeaderInsertionIntervalMsec
+- Update low level
+
 ### Ver. 1.11.10 (14/12/23)
 - Low level update. 
 
