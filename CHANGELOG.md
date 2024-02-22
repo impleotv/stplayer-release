@@ -1,10 +1,15 @@
 Change Log
 ==========
 
-### Ver. 1.10.17 (15/02/24)
+### Ver. 1.12.1 (22/02/24)
+- Update low level
+- Add option for async callback of sync frames
+- Modify StCore interface
+
+### Ver. 1.11.17 (15/02/24)
 - Update low level
 
-### Ver. 1.10.16 (11/02/24)
+### Ver. 1.11.16 (11/02/24)
 - Added new property in IStCoreWr - SequenceHeaderInsertionIntervalMsec
 - Update low level
 
