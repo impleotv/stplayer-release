@@ -43,10 +43,10 @@ jobs:
           local-dir: ./
           server-dir: stplayer/
 
-      - name: Setup NodeJs 18.x
-        uses: actions/setup-node@v4
+      - name: Setup NodeJs 14.x
+        uses: actions/setup-node@v1
         with:
-          node-version: '18.x'
+          node-version: '14.x'
       - name: Cache dependencies and build outputs to improve workflow execution time.
         uses: actions/cache@v1
         with:
