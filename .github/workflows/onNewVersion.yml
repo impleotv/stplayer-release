@@ -15,7 +15,7 @@ jobs:
     
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v1
    
       - name: Download SetupStPlayer.zip from release 
         uses: dsaltares/fetch-gh-release-asset@master
