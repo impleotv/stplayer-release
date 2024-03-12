@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 1.12.3 (12/03/24)
+ - DirectX mode playback improvements
+ - Add PreferEvrOnVmr9 option
+
 ### Ver. 1.12.2 (10/03/24)
 Low level changes:
 - Add support for EVR renderer
