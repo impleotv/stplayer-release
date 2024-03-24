@@ -1,5 +1,9 @@
 Change Log
 ==========
+### Ver. 1.12.4 (24/03/24)
+- Update MisbCore
+	- Remove length from VMTI Location (tag 17)
+	- Remove length from VMTI Velocity and Acceleration DLP 
 
 ### Ver. 1.12.3 (12/03/24)
  - DirectX mode playback improvements
