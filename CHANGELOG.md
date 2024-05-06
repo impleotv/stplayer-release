@@ -1,6 +1,30 @@
 Change Log
 ==========
 
+### Ver. 2.0.0 (4/05/24)
+- Move Low level to .Net 4.7.2 - StCore 4.0.2
+- Add JWT license
+ low level 
+	- Fix pause handling in VideoOverlayMixer
+	- improve D3d video renderer performance
+	- Add delay option in videoOverlayMixer
+	- Add option to override aspect ratio in VideoOverlayMixer
+	- Improvements in presentation filters
+	- Initial latency configuration fixes
+	- Fix aspect ratio handling
+	- Improve logging of monitored events (specifically for video renderer)
+
+- Modify low level 
+	- Add delay option in videoOverlayMixer
+	- Add option to override aspect ratio in VideoOverlayMixer
+	- Improvements in presentation filters
+
+### Ver. 1.12.7  (28/04/24)
+- Modify low level 
+	- Add delay option in videoOverlayMixer
+	- Add option to override aspect ratio in VideoOverlayMixer
+	- improvements in presentation filters
+
 ### Ver. 1.12.6 (26/03/24)
 - Modify NodeInfo format (SDK)
 Low level:
