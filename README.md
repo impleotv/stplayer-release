@@ -38,5 +38,5 @@ No license is needed for application evaluation - it will work in demo mode (wit
 
 Please copy-paste *Node Info*, don't send an image...
 
-You'll get back a **license** file and a **key**.
-Select the license file on the *Options/License* page and apply the provided key.
+You'll receive a **license** file (or a **license** file and a **key**, for older versions).
+Select the license file on the *Options/License* page and apply the provided key (if needed).
