@@ -1,6 +1,9 @@
 Change Log
 ==========
 
+### Ver. 2.0.1 (4/05/24)
+- Remove file playback option from license - make it always true
+
 ### Ver. 2.0.0 (4/05/24)
 - Move Low level to .Net 4.7.2 - StCore 4.0.2
 - Add JWT license
