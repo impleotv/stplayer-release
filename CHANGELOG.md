@@ -1,6 +1,12 @@
 Change Log
 ==========
 
+### Ver. 2.0.2 (26/05/24)
+- Add patch enabling Klv presentation for wrongly formated packets
+- Improve time accuracy in KlvConditionsTable in stservercontrols. Now allows to specify seconds and milliseconds
+- Add HW acceleration selection
+- Add Hardware Accelerating Device Number
+
 ### Ver. 2.0.1 (4/05/24)
 - Remove file playback option from license - make it always true
 
