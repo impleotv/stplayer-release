@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+### Ver. 2.1.0 (12/07/24)
+- low level modifications
+- MisbCore VMTI modifications
+	- Add MISB903.6 support 
+
 ### Ver. 2.0.2 (26/05/24)
 - Add patch enabling Klv presentation for wrongly formated packets
 - Improve time accuracy in KlvConditionsTable in stservercontrols. Now allows to specify seconds and milliseconds
