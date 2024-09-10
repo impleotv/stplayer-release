@@ -1,5 +1,8 @@
 Change Log
 ==========
+### Ver. 2.1.1 (10/09/24)
+- low level modifications
+	- Comply with H264 SEI NAL in the beginning of PES
 
 ### Ver. 2.1.0 (12/07/24)
 - low level modifications
