@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 2.1.4 (15/11/24)
+- low level
+	- support decoding of H265 with P10 pixel format
+
 ### Ver. 2.1.2 (16/10/24)
 - Fix JWT license apply. No need to restart
 - low level
