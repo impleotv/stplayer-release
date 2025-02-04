@@ -1,6 +1,18 @@
 Change Log
 ==========
 
+### Ver. 2.2.2 (4/02/25)
+- Add RTP mode with m2t, h264, h265, av1
+- low level
+ - Adding support for AV1 in RTP input and in decoding
+ - AV1 stabilization fixes
+ - Detection fix
+
+### Ver. 2.2.0 (12/01/25)
+- low level
+ - Upgrading ffmpeg to 5.1.2
+ - Use Filters v1.7
+
 ### Ver. 2.1.5 (29/12/24)
 - low level
  - fix playback stability in switch sources
