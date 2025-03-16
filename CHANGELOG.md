@@ -1,6 +1,12 @@
 Change Log
 ==========
 
+
+### Ver. 2.2.6 (16/0/25)
+- Update low level to v4.2.6
+- Fix VMTI overlay expiration
+- Configurable VmtiExpireTimeout 
+
 ### Ver. 2.2.5 (24/02/25)
 - Replace x32 h264 encoder with x64
 - low level Ver. 1.7.9 (23/2/25)
