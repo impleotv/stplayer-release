@@ -46,7 +46,7 @@ jobs:
           server-dir: stplayer/
 
       - name: Setup NodeJs 14.x
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v4
         with:
           node-version: '14.x'
       - name: Cache dependencies and build outputs to improve workflow execution time.
