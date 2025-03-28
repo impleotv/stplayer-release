@@ -1,6 +1,7 @@
 Change Log
 ==========
-
+### Ver. 2.2.7 (16/0/25)
+- Fix recast license
 
 ### Ver. 2.2.6 (16/0/25)
 - Update low level to v4.2.6
