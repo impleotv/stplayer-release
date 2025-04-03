@@ -1,5 +1,10 @@
 Change Log
 ==========
+
+### Ver. 4.2.8 (03/04/25)
+- Low level 1.7.10 
+	- Fixing demux of h265 with bad syntax
+
 ### Ver. 2.2.7 (16/0/25)
 - Fix recast license
 
