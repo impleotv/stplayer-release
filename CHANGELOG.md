@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+### Ver. 2.2.10 (27/04/25)
+- Fix VMTI target presentation (edge case)
+- Low level Ver. 1.7.12
+	- Fixing failure in DirectX image resizing in some computers
+
 ### Ver. 2.2.9 (10/04/25)
 - Low level Ver. 1.7.11 (9/4/25)
 	- Fix exception on decoding stop 
