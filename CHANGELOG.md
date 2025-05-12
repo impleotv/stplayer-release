@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 2.2.11 (12/05/25)
+- Low level Ver. 1.7.13 (11/5/25)
+	- Fix decoder state machine stability while playing corrupted content
+
 ### Ver. 2.2.10 (27/04/25)
 - Fix VMTI target presentation (edge case)
 - Low level Ver. 1.7.12
