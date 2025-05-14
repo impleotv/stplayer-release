@@ -36,7 +36,8 @@ No license is needed for application evaluation - it will work in demo mode (wit
 ***Node Info*** string can be found at ***Options->License***, as shown below.
 ![NodeInfo string](images/license.png)
 
-Please copy-paste *Node Info*, don't send an image...
+Copy and paste the **Node Info** string into the online form, or email it to support@impleotv.com.  
+If your computer is offline or you're unable to copy the Node Info text, take a photo of the license page with the QR code clearly visible and send it to us instead.
 
-You'll receive a **license** file (or a **license** file and a **key**, for older versions).
-Select the license file on the *Options/License* page and apply the provided key (if needed).
+You'll receive a **license** file (or a **license** file and a **key**, for legacy versions).  
+To complete activation, select the license file on the Options -> License page. If a key is provided, enter it as well.
