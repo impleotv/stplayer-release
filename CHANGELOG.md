@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 2.2.12 (14/05/25)
+- MISB 601. Add tag 140 (WeaponsStores)
+- Add Node info QR code presentation
+
 ### Ver. 2.2.11 (12/05/25)
 - Low level Ver. 1.7.13 (11/5/25)
 	- Fix decoder state machine stability while playing corrupted content
