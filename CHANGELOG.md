@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 2.2.13 (02/06/25)
+- Replace manual with mkdocs
+- Increase accuracy in vmti target tag 17
+
 ### Ver. 2.2.12 (14/05/25)
 - MISB 601. Add tag 140 (WeaponsStores)
 - Add Node info QR code presentation
