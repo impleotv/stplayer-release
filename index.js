@@ -13,8 +13,8 @@ let DATA = {
   date: new Date().toLocaleDateString('en-IL', {
     weekday: 'short',
     month: 'short',
-    day: 'numeric',
-    year: 'numeric', 
+    year: 'numeric',
+    day: 'numeric', 
     hour: 'numeric',
     minute: 'numeric',
     timeZoneName: 'short',
