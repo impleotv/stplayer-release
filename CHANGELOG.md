@@ -1,7 +1,10 @@
 Change Log
 ==========
 
-### Ver. 4.2.14 (16/06/25)
+### Ver. 2.2.15 (28/08/25)
+- Fix Option dialog opening with expired license
+
+### Ver. 2.2.14 (16/06/25)
  Low level Ver. 1.7.15 (15/6/25)
 - Fixing the pid name detection in the demux filter
 
