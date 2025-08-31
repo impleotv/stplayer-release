@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+### Ver. 2.3.0 (31/08/25)
+- Add support for AV1 in mpegts  
+ Low level Ver. 1.7.22 (31/8/25)
+- Add support for MPEG TS Demux with AV1
+
 ### Ver. 2.2.15 (28/08/25)
 - Fix Option dialog opening with expired license
 
