@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 2.3.1 (15/09/25)
+- Fix inconsistent DirectX mode
+- Low level Ver. Ver. 1.7.23 (17/9/25)
+
 ### Ver. 2.3.0 (31/08/25)
 - Add support for AV1 in mpegts  
  Low level Ver. 1.7.22 (31/8/25)
