@@ -1,6 +1,12 @@
 Change Log
 ==========
 
+### Ver. 2.3.2 (03/11/25)
+- Low level
+	- Add D3dVideoRenderer.ini
+		[Quality]
+		disabledStretchingIterpolation=1
+
 ### Ver. 2.3.1 (15/09/25)
 - Fix inconsistent DirectX mode
 - Low level Ver. Ver. 1.7.23 (17/9/25)
