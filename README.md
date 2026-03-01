@@ -26,7 +26,7 @@ Unzip the **SetupStPlayer.zip** file and run the **SetupStPlayer.exe**
 | **StPlayer** |  v2.3.6 | [SetupStPlayer.zip](https://github.com/impleotv/stplayer-release/releases/latest/download/SetupStPlayer.zip) | 
 
 
-*Released on Sun, 1 Mar 2026, 11:50 GMT+2*
+*Released on Sun, 1 Mar 2026, 11:54 GMT+2*
 
 ## License
 
