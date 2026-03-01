@@ -1,6 +1,14 @@
 Change Log
 ==========
 
+### Ver. 2.3.6 (01/03/26)
+- Sign StCore 
+- Stretch the color bar to cover the entire parent window
+- Low level Ver. 1.7.27 (7/1/26)
+	- Fixing application stuck in low delay and WPF D3dImage mode
+	- Changing default log level to DEBUG
+	- Enhanced digital zoom with DirectX
+
 ### Ver. 2.3.5 (07/01/26)
 - Low level Ver. 1.7.27 (7/1/26)
 	- Fix green video when resizing with DirectX window
