@@ -1,6 +1,37 @@
 Change Log
 ==========
 
+### Ver. 2.3.6 (01/03/26)
+- Sign StCore 
+- Stretch the color bar to cover the entire parent window
+- Low level Ver. 1.7.27 (7/1/26)
+	- Fixing application stuck in low delay and WPF D3dImage mode
+	- Changing default log level to DEBUG
+	- Enhanced digital zoom with DirectX
+
+### Ver. 2.3.5 (07/01/26)
+- Low level Ver. 1.7.27 (7/1/26)
+	- Fix green video when resizing with DirectX window
+
+### Ver. 2.3.4 (26/12/25)
+ Low level Ver. 1.7.26 (25/12/25)
+	- Fix frame accurate step when renderer is VMR9
+
+### Ver. 2.3.2 (03/11/25)
+- Low level
+	- Add D3dVideoRenderer.ini
+		[Quality]
+		disabledStretchingIterpolation=1
+
+### Ver. 2.3.1 (15/09/25)
+- Fix inconsistent DirectX mode
+- Low level Ver. Ver. 1.7.23 (17/9/25)
+
+### Ver. 2.3.0 (31/08/25)
+- Add support for AV1 in mpegts  
+ Low level Ver. 1.7.22 (31/8/25)
+- Add support for MPEG TS Demux with AV1
+
 ### Ver. 2.2.15 (28/08/25)
 - Fix Option dialog opening with expired license
 
