@@ -1,6 +1,9 @@
 Change Log
 ==========
 
+### Ver. 2.3.7 (03/03/26)
+- Fix "No video on the second run"
+
 ### Ver. 2.3.6 (01/03/26)
 - Sign StCore 
 - Stretch the color bar to cover the entire parent window
