@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 3.0.1 (04/05/26)
+- Change presentation default
+- Fix User Manual
+
 ### Ver. 3.0.0 (04/05/26)
 - Replace video overlay (st-overlay)
 - Show special values (KLV)
