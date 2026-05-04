@@ -1,6 +1,14 @@
 Change Log
 ==========
 
+### Ver. 3.0.0 (04/05/26)
+- Replace video overlay (st-overlay)
+- Show special values (KLV)
+- Replace Chromium with WebView2
+- Replace Map (uav-map)
+- Add D3D Video presenter
+- Move to .NET 4.8
+
 ### Ver. 2.3.7 (03/03/26)
 - Fix "No video on the second run"
 
@@ -528,7 +536,7 @@ FooterSearchIsDisabled=1
 ### Ver. 1.4.10
 
 - Low level update (StCore 3.7.10)
-- Add back 2013 redistributables for Chromium
+- Add back 2013 redistributables for the embedded browser runtime
 - HLS discountinuity
 - Goto without stop/start upon ingest
 - 0.0.0.0 nic binding
