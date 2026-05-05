@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 3.0.2 (05/05/26)
+- Fix nested klv presentation in KlvView
+- Update User Manual
+
 ### Ver. 3.0.1 (04/05/26)
 - Change presentation default
 - Fix User Manual
