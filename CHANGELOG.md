@@ -1,6 +1,17 @@
 Change Log
 ==========
 
+### Ver. 3.0.3 (20/05/26)
+
+- Add Export / Import overlay configuration
+= Save overlay configuration in a separate file
+
+- Low level Ver. (19/5/26)
+	- Completed support for very low frame rate with AV1/RTP stream 
+- Low level Ver. 1.7.35 (3/5/26)
+	- Supporting very low frame rate (one frame per number of seconds)
+
+
 ### Ver. 3.0.2 (05/05/26)
 - Fix nested klv presentation in KlvView
 - Update User Manual
