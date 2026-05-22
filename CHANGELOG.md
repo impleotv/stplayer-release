@@ -1,7 +1,7 @@
 Change Log
 ==========
 
-### Ver. 3.0.3 (20/05/26)
+### Ver. 3.0.4 (22/05/26)
 
 - Add Export / Import overlay configuration
 = Save overlay configuration in a separate file
