@@ -1,8 +1,10 @@
 Change Log
 ==========
 
-### Ver. 3.0.4 (22/05/26)
+### Ver. 3.0.5 (24/05/26)
+- Fix no video shown on the second stream run
 
+### Ver. 3.0.4 (22/05/26)
 - Add Export / Import overlay configuration
 = Save overlay configuration in a separate file
 
