@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 3.1.0 (02/06/26)
+- Refactor Setting/Options components.
+- Add preconfigured Network comnfiguration.
+
 ### Ver. 3.0.5 (24/05/26)
 - Fix no video shown on the second stream run
 
