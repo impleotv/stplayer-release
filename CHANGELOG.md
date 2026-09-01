@@ -1,6 +1,13 @@
 Change Log
 ==========
 
+### Ver. 3.2.0 (30/08/26)
+	- Low level Ver. 1.7.38 (27/7/26)
+	- Update ffmpeg to 8.1.2.
+	- Fix some misbcore MISB903 issues
+	- Add more tags in MISB903
+	- Fix "need resize to show video" after EOF issue
+
 ### Ver. 3.1.0 (02/06/26)
 - Refactor Setting/Options components.
 - Add preconfigured Network comnfiguration.
