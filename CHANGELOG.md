@@ -1,6 +1,17 @@
 Change Log
 ==========
 
+### Ver. 3.3.0 (02/11/26)
+- Low level Ver. (25/10/26)
+	- Added support for blending 2 videos in D3dVideoRenderer API
+	- Fix klv pairing timestamp regression (SampleSynchronizerFilter filter)
+- Upgrade Newtonsoft.Json to version 13.0.4
+
+### Ver. 3.2.1 (02/10/26)
+	- Low level Ver. 1.7.39 (17/9/26)
+		- Added ffmpeg based audio encoder filter
+	- Update recorder.
+
 ### Ver. 3.2.0 (30/08/26)
 	- Low level Ver. 1.7.38 (27/7/26)
 	- Update ffmpeg to 8.1.2.
